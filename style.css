@@ -1,0 +1,23 @@
+@media (max-width: 576px) {
+    .smaller-img {
+        width: 50%;
+        /* 画面サイズが768px以下の場合に画像の幅を50%にする */
+        height: auto;
+        /* 高さを自動調整してアスペクト比を保持 */
+    }
+    
+    
+}
+
+.x_account {
+    max-width: 15em;
+
+    border: solid 3px #ffffff;
+}
+
+ /* @media (max-width: 992px) {
+    .x_account {
+        width: 20%;
+    }
+} */
+
