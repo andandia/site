@@ -1,23 +1,52 @@
 @media (max-width: 576px) {
-    .smaller-img {
+    .top-image {
         width: 50%;
         /* 画面サイズが768px以下の場合に画像の幅を50%にする */
         height: auto;
         /* 高さを自動調整してアスペクト比を保持 */
     }
-    
+   
+    .taiko-gplay {
+        width: 80%;
+        /* 画面サイズが768px以下の場合に画像の幅を50%にする */
+        height: auto;
+        /* 高さを自動調整してアスペクト比を保持 */
+    }
     
 }
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .taiko-gplay {
+        width: 120%;
+        /* 画面サイズが768px以下の場合に画像の幅を50%にする */
+        /* height: auto; */
+        /* 高さを自動調整してアスペクト比を保持 */
+    }
+}
+
+
 
 .x_account {
     max-width: 15em;
-
     border: solid 3px #ffffff;
 }
 
- /* @media (max-width: 992px) {
-    .x_account {
-        width: 20%;
-    }
-} */
+
+
+.lantern {
+    position: relative;
+    z-index: 0;
+}
+
+.lantern:before {
+    content: '';
+    background-image: url(img/29530777_s.jpg);
+    position: absolute;
+    top: -3px;
+    bottom: -3px;
+    left: -3px;
+    right: -3px;
+    filter: blur(5px);
+    z-index: -1;
+}
 
