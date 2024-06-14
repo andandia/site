@@ -1,28 +1,54 @@
-@media (max-width: 576px) {
+/* 中間サイズの画面 */
+@media (576px <=width <= 768px ) {
     .top-image {
-        width: 50%;
-        /* 画面サイズが768px以下の場合に画像の幅を50%にする */
+        width: 100%;
         height: auto;
-        /* 高さを自動調整してアスペクト比を保持 */
     }
    
-    .taiko-gplay {
+    /* .taiko-gplay {
         width: 80%;
-        /* 画面サイズが768px以下の場合に画像の幅を50%にする */
         height: auto;
-        /* 高さを自動調整してアスペクト比を保持 */
     }
+    
+    .taiko-image {
+        width: 80%;
+        height: auto;
+    } */
+    
     
 }
 
-@media (min-width: 576px) and (max-width: 768px) {
+
+@media (width <= 576px) {
+    .top-image {
+        width: 50%;
+        height: auto;
+    }
+
+
+}
+
+
+@media (width <=576px) {
+    .top-image {
+        width: 50%;
+        height: auto;
+    }
+
+
+}
+
+
+/* @media (min-width: 576px) and (max-width: 768px) {
     .taiko-gplay {
         width: 120%;
-        /* 画面サイズが768px以下の場合に画像の幅を50%にする */
-        /* height: auto; */
-        /* 高さを自動調整してアスペクト比を保持 */
     }
-}
+    
+    .taiko-image {
+        width: 120%;
+        height: auto;
+    }
+} */
 
 
 
