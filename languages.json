@@ -1,0 +1,69 @@
+﻿[
+	{
+		"id": "about-site-label",
+		"langs": {
+			"en": "About This Site",
+			"ja": "当サイトについて"
+		}
+	},
+	{
+		"id": "about-site-content",
+		"langs": {
+			"en": "This site introduces apps that I, aka sato, have created. \nCheck out the apps from the top menu! \nIf you find an app that interests you, download it now!",
+			"ja": "このサイトでは、私satoが制作したアプリを紹介しています。\nトップのメニューから、アプリをチェックして下さい！\n気になるアプリがあったら、今すぐダウンロード！"
+		}
+	},
+	{
+		"id": "check-sns",
+		"langs": {
+			"en": "Please see below for Sato Soft's social media.\n(It's basically Japanese Language)",
+			"ja": "sato softのSNSは以下をご覧下さい。"
+		}
+	},
+	{
+		"id": "copyright",
+		"langs": {
+			"en": "Copyright",
+			"ja": "各種権利表記"
+		}
+	},
+	{
+		"id": "copyright-notice",
+		"langs": {
+			"en": "The copyrights of the materials used on this site are as follows",
+			"ja": "このサイトで使用している素材の権利表記は以下のとおりです"
+		}
+	},
+	{
+		"id": "enter-name",
+		"attr": {
+			"placeholder": {
+				"en": "Please enter your name",
+				"es": "Por favor ingrese su nombre aquí",
+				"zh": "请输入您的姓名"
+			}
+		}
+	},
+	{
+		"id": "farewell-btn",
+		"langs": {
+			"en": "Goodbye",
+			"es": "Adiós",
+			"zh": "再见"
+		},
+		"attr": {
+			"title": {
+				"en": "Thank you for visiting.",
+				"es": "Gracias por su visita.",
+				"zh": "谢谢访问！"
+			},
+			"onclick": {
+				"en": "alert('Have a good day!');",
+				"es": "alert('¡Que tenga un buen día!');",
+				"zh": "alert('祝您有美好的一天！');",
+				"ko": "alert('좋은 하루 되세요！');",
+				"vi": "alert('Chúc bạn ngày mới tốt lành');"
+			}
+		}
+	}
+]
