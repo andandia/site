@@ -1,5 +1,40 @@
 ﻿[
 	{
+		"id": "home",
+		"langs": {
+			"en": "Home",
+			"ja": "ホーム"
+		}
+	},
+	{
+		"id": "par-taiko",
+		"langs": {
+			"en": "Taiko Sounds",
+			"ja": "鳴り物太鼓"
+		}
+	},
+	{
+		"id": "bang3",
+		"langs": {
+			"en": "Exhilarating puzzle",
+			"ja": "爽快パズル"
+		}
+	},
+	{
+		"id": "galaxy",
+		"langs": {
+			"en": "FlickGalaxy",
+			"ja": "フリックギャラクシー"
+		}
+	},
+	{
+		"id": "index-title",
+		"langs": {
+			"en": "Sato soft Introduction Page",
+			"ja": "Sato soft紹介ページ"
+		}
+	},
+	{
 		"id": "about-site-label",
 		"langs": {
 			"en": "About This Site",
