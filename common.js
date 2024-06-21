@@ -1,6 +1,3 @@
-
-
-
 window.onload = (event) => {
     var translator = new MultiLanguage("ja");
     
@@ -16,14 +13,5 @@ window.onload = (event) => {
     }
     xhr.send()
     
-    
-    //translator.translate(this.externalJSON, "ja")
-    translator.registerSelect(document.getElementById("languages"));
-    
+    translator.registerSelect(document.getElementById("languages"));   
 };
-
-
-// function langChange() {
-//     var translator = new MultiLanguage();
-//     translator.translate(this.externalJSON, document.getElementById("languages").value)
-// }
