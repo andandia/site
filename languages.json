@@ -70,6 +70,97 @@
 		}
 	},
 	{
+		"id": "taiko-title",
+		"langs": {
+			"en": "Taiko Sounds Introduction Page",
+			"ja": "鳴り物太鼓 紹介ページ"
+		}
+	},
+	{
+		"id": "taiko-app-name",
+		"langs": {
+			"en": "Taiko Sounds",
+			"ja": "鳴り物太鼓"
+		}
+	},
+	{
+		"id": "taiko-catchphrase",
+		"langs": {
+			"en": "Simple instrument app",
+			"ja": "シンプルな楽器アプリ"
+		}
+	},
+	{
+		"id": "taiko-explanation-1-label",
+		"langs": {
+			"en": "Keep it simple",
+			"ja": "シンプルに"
+		}
+	},
+	{
+		"id": "taiko-explanation-1-content",
+		"langs": {
+			"en": "There are no unnecessary functions,\nso you can start playing right away.\nOperation is very intuitive and easy, just by touching the screen.",
+			"ja": "余計な機能はつけず、起動するだけですぐに楽しめます。\n操作も画面をタッチするだけ と\n非常に直感的で分かりやすい操作になっています。"
+		}
+	},
+	{
+		"id": "taiko-catchphrase",
+		"langs": {
+			"en": "Low Latency",
+			"ja": "シンプルな楽器アプリ"
+		}
+	},
+	{
+		"id": "taiko-explanation-2-label",
+		"langs": {
+			"en": "Simple instrument app",
+			"ja": "低遅延"
+		}
+	},
+	{
+		"id": "taiko-explanation-2-content",
+		"langs": {
+			"en": "On Android devices, \nthere is inevitably a delay between touching the screen and hearing the actual sound. \nWe have made efforts to minimize this delay, \nso that you can enjoy the game comfortably.",
+			"ja": "Android端末においては\n画面タッチから実際に音が出るまでどうしても遅れがあります。\nこれを極限まで抑える工夫を行っており、\n快適に楽しめるようになっています。"
+		}
+	},
+	{
+		"id": "taiko-annotation",
+		"langs": {
+			"en": "*Depending on the model you are using, there may be a delay in the sound.",
+			"ja": "※お使いの機種によっては音の遅延が発生する場合もございます。"
+		}
+	},
+	{
+		"id": "taiko-dl-googleplay",
+		"langs": {
+			"en": "Download on Google Play",
+			"ja": "Google Playで\nダウンロード"
+		}
+	},
+	{
+		"id": "taiko-catchphrase",
+		"langs": {
+			"en": "Simple instrument app",
+			"ja": "シンプルな楽器アプリ"
+		}
+	},
+	{
+		"id": "taiko-catchphrase",
+		"langs": {
+			"en": "Simple instrument app",
+			"ja": "シンプルな楽器アプリ"
+		}
+	},
+	{
+		"id": "taiko-catchphrase",
+		"langs": {
+			"en": "Simple instrument app",
+			"ja": "シンプルな楽器アプリ"
+		}
+	},
+	{
 		"id": "enter-name",
 		"attr": {
 			"placeholder": {

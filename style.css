@@ -1,28 +1,44 @@
-/* 中間サイズの画面 */
-/* @media (576px <= width <= 768px ) {
-    .top-image {
-        width: 100%;
-        height: auto;
+/* 大サイズの画面 */
+@media (768px <=width) {
+    .bang-youtube {
+        width: 65% !important;
     }
-   
-} */
+}
+
+
+/* 中間サイズの画面 */
+@media (576px <=width <=768px) {
+    .bang-youtube {
+        width: 80% !important;
+    }
+}
 
 /* 小サイズの画面 */
-@media (width <= 576px) {
+@media (width <=576px) {
     .top-image {
         width: 50%;
         height: auto;
     }
 
-    .taiko-image {
+    .guide-image {
         width: 70%;
         height: auto;
+    }
+
+
+    .bang-youtube {
+        width: 100% !important;
     }
 }
 
 
+.pre-wrap {
+    white-space: pre-wrap;
+}
 
-
+.lang-select {
+    width: 200px !important;
+}
 
 .x_account {
     max-width: 15em;
@@ -51,4 +67,22 @@
 
 .taiko-annotation {
     font-size: 12px;
+}
+
+
+.jewel {
+    position: relative;
+    z-index: 0;
+}
+
+.jewel:before {
+    content: '';
+    background-image: url(img/bang/29877804_s.jpg);
+    position: absolute;
+    top: -3px;
+    bottom: -3px;
+    left: -3px;
+    right: -3px;
+    filter: blur(5px);
+    z-index: -1;
 }
