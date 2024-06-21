@@ -140,6 +140,83 @@
 		}
 	},
 	{
+		"id": "bang-title",
+		"langs": {
+			"en": "Exhilarating puzzle BANG!×3 Introduction Page",
+			"ja": "爽快パズル BANG×3 紹介ページ"
+		}
+	},
+	{
+		"id": "bang-app-name",
+		"langs": {
+			"en": "Exhilarating puzzle\nBANG! BANG! BANG!",
+			"ja": "爽快パズル\nBANG! BANG! BANG!"
+		}
+	},
+	{
+		"id": "bang-catchphrase",
+		"langs": {
+			"en": "A simple and refreshing puzzle game!!",
+			"ja": "簡単爽快パズルゲーム！！"
+		}
+	},
+	{
+		"id": "bang-explanation-1-label",
+		"langs": {
+			"en": "Easy and refreshing!",
+			"ja": "簡単爽快！"
+		}
+	},
+	{
+		"id": "bang-explanation-1-content",
+		"langs": {
+			"en": "A simple and refreshing puzzle game where you just trace jewels of the same type!!\nRather than thinking too much, just erase as much as you can!\nIt is very intuitive and easy to use.",
+			"ja": "同じ種類の宝石をなぞるだけの簡単爽快パズルゲーム！！\n考えるよりとにかくガンガン消しまくろう！\n非常に直感的で分かりやすい操作になっています。"
+		}
+	},
+	{
+		"id": "bang-explanation-2-label",
+		"langs": {
+			"en": "Two modes!",
+			"ja": "2つのモード！"
+		}
+	},
+	{
+		"id": "bang-explanation-2-content",
+		"langs": {
+			"en": "Time attack with a time limit that can be changed in 1-minute increments from 1 to 5 minutes\nIt also has an endless mode where you can play as much as you want!\nLet's have lots of fun in our spare time!!!",
+			"ja": "1分から5分まで1分刻みで制限時間が変えられるタイムアタック\n自由に好きなだけ遊べるエンドレスモードを搭載しています！！\nスキマ時間にたくさん遊ぼう！！！"
+		}
+	},
+	{
+		"id": "bang-promotion-movie",
+		"langs": {
+			"en": "Promotional Video",
+			"ja": "プロモーション動画"
+		}
+	},
+	{
+		"id": "bang-dl-googleplay",
+		"langs": {
+			"en": "Download on Google Play",
+			"ja": "Google Playで\nダウンロード"
+		}
+	},
+	{
+		"id": "taiko-catchphrase",
+		"langs": {
+			"en": "Simple instrument app",
+			"ja": "シンプルな楽器アプリ"
+		}
+	},
+	{
+		"id": "taiko-catchphrase",
+		"langs": {
+			"en": "Simple instrument app",
+			"ja": "シンプルな楽器アプリ"
+		}
+	},
+	{
 		"id": "taiko-catchphrase",
 		"langs": {
 			"en": "Simple instrument app",
