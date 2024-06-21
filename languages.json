@@ -203,70 +203,66 @@
 		}
 	},
 	{
-		"id": "taiko-catchphrase",
+		"id": "galaxy-title",
 		"langs": {
-			"en": "Simple instrument app",
-			"ja": "シンプルな楽器アプリ"
+			"en": "Flick Galaxy Introduction Page",
+			"ja": "フリックギャラクシー 紹介ページ"
 		}
 	},
 	{
-		"id": "taiko-catchphrase",
+		"id": "galaxy-app-name",
 		"langs": {
-			"en": "Simple instrument app",
-			"ja": "シンプルな楽器アプリ"
+			"en": "Flick Galaxy",
+			"ja": "フリックギャラクシー"
 		}
 	},
 	{
-		"id": "taiko-catchphrase",
+		"id": "galaxy-catchphrase",
 		"langs": {
-			"en": "Simple instrument app",
-			"ja": "シンプルな楽器アプリ"
+			"en": "A flick typing game with over 20,000 questions!\n(*Supported language is Japanese only)",
+			"ja": "2万問Overのフリックタイピングゲーム！"
 		}
 	},
 	{
-		"id": "taiko-catchphrase",
+		"id": "galaxy-explanation-1-label",
 		"langs": {
-			"en": "Simple instrument app",
-			"ja": "シンプルな楽器アプリ"
+			"en": "An overwhelming amount of problems",
+			"ja": "圧倒的な問題量"
 		}
 	},
 	{
-		"id": "taiko-catchphrase",
+		"id": "galaxy-explanation-1-content",
 		"langs": {
-			"en": "Simple instrument app",
-			"ja": "シンプルな楽器アプリ"
+			"en": "The total number of questions is an astounding 20,000+!\nA flick game where you shoot a variety of words!!\nShoot all the words!!!",
+			"ja": "総問題数は脅威の2万問超え！\n多彩な言葉を撃ちまくるフリックゲーム！！\nすべての言葉を打ち尽くせ！！！"
 		}
 	},
 	{
-		"id": "enter-name",
-		"attr": {
-			"placeholder": {
-				"en": "Please enter your name",
-				"es": "Por favor ingrese su nombre aquí",
-				"zh": "请输入您的姓名"
-			}
+		"id": "galaxy-explanation-2-label",
+		"langs": {
+			"en": "A wide variety of vocabulary included!",
+			"ja": "多彩な収録ジャンル！"
 		}
 	},
 	{
-		"id": "farewell-btn",
+		"id": "galaxy-explanation-2-content",
 		"langs": {
-			"en": "Goodbye",
-			"es": "Adiós",
-			"zh": "再见"
-		},
-		"attr": {
-			"title": {
-				"en": "Thank you for visiting.",
-				"es": "Gracias por su visita.",
-				"zh": "谢谢访问！"
-			},
-			"onclick": {
-				"en": "alert('Have a good day!');",
-				"es": "alert('¡Que tenga un buen día!');",
-				"zh": "alert('祝您有美好的一天！');",
-				"ko": "alert('좋은 하루 되세요！');",
-				"vi": "alert('Chúc bạn ngày mới tốt lành');"
-			}
+			"en": "Vocabulary included:\n- Song titles\n- Idol group/band names\n- Actress/actor/voice actor names\n- Manga/anime/light novel titles\n- Internet slang\n- Historical figures names\n- And more... A wide variety of words await you!",
+			"ja": "収録ジャンルは\n・曲名\n・アイドルグループ/バンド名\n・女優/俳優/声優の人名\n・マンガ/アニメ/ラノベタイトル\n・ネットスラング\n・歴史上の人物名\nなどなど…多彩なジャンルの言葉が君を待つ！"
+		}
+	},
+	{
+		"id": "galaxy-promotion-movie",
+		"langs": {
+			"en": "Promotional Video",
+			"ja": "プロモーション動画"
+		}
+	},
+	{
+		"id": "galaxy-dl-googleplay",
+		"langs": {
+			"en": "Download on Google Play",
+			"ja": "Google Playで\nダウンロード"
 		}
 	}
 ]
